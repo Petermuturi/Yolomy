@@ -1,0 +1,12 @@
+div.container{
+	background-image: url("hero.jpg")
+}
+div.container2{
+	background-image: url("/home/peter/Desktop/FrontEnd-Assignments-master/Assignment_1/assets/backgrounds/about.jpg");
+}
+
+a{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+}
